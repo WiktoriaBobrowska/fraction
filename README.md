@@ -1,2 +1,2 @@
 # fraction
-Fraction class in C++.
+Fraction class in C++ using some template methods.
